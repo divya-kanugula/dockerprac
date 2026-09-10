@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+}
+
+.container {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+h1 {
+  color: #2496ed;
+  font-size: 40px;
+}
+
+.success {
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.card {
+  background: white;
+  max-width: 600px;
+  margin: 25px auto;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.card h2 {
+  color: #333;
+}
+
+.card p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+footer {
+  margin-top: 40px;
+  color: #666;
+}
